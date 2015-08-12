@@ -1,0 +1,28 @@
+{
+  "name": "@brjs/coverage-warning",
+  "version": "0.0.0",
+  "description": "Display a coverage report health warning",
+  "bin": {
+    "coverage-warning": "./bin/coverage-warning.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BladeRunnerJS/coverage-warning.git"
+  },
+  "keywords": [
+    "coverage",
+    "warning"
+  ],
+  "author": "Dominic Chambers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BladeRunnerJS/coverage-warning/issues"
+  },
+  "homepage": "https://github.com/BladeRunnerJS/coverage-warning#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
