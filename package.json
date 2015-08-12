@@ -1,6 +1,6 @@
 {
   "name": "@brjs/coverage-warning",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Display a coverage report health warning",
   "bin": {
     "coverage-warning": "./bin/coverage-warning.js"
